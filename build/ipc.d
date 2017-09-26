@@ -1,0 +1,10 @@
+.\build\ipc.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\ipc.c
+.\build\ipc.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\ipc.o: .\rtconfig.h
+.\build\ipc.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
+.\build\ipc.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\ipc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\ipc.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
+.\build\ipc.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
+.\build\ipc.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\ipc.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rthw.h

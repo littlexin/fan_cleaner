@@ -1,0 +1,13 @@
+.\build\portal.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\src\portal.c
+.\build\portal.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\portal.o: .\rtconfig.h
+.\build\portal.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
+.\build\portal.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\portal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\portal.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
+.\build\portal.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
+.\build\portal.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\portal.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\include\rtdevice.h
+.\build\portal.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\include\drivers/serial.h
+.\build\portal.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\include\drivers/pin.h
+.\build\portal.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\include\rtdevice.h

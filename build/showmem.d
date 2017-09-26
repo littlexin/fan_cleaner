@@ -1,0 +1,9 @@
+.\build\showmem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\libcpu\arm\common\showmem.c
+.\build\showmem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\showmem.o: .\rtconfig.h
+.\build\showmem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
+.\build\showmem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\showmem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\showmem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
+.\build\showmem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
+.\build\showmem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h

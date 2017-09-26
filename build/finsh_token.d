@@ -1,0 +1,15 @@
+.\build\finsh_token.o: E:/xin/RTT_CODE/rt-thread-master/rt-thread-master/components/finsh\finsh_token.c
+.\build\finsh_token.o: E:/xin/RTT_CODE/rt-thread-master/rt-thread-master/components/finsh/finsh.h
+.\build\finsh_token.o: E:/xin/RTT_CODE/rt-thread-master/rt-thread-master/include/rtthread.h
+.\build\finsh_token.o: .\rtconfig.h
+.\build\finsh_token.o: E:/xin/RTT_CODE/rt-thread-master/rt-thread-master/include/rtdebug.h
+.\build\finsh_token.o: E:/xin/RTT_CODE/rt-thread-master/rt-thread-master/include/rtdef.h
+.\build\finsh_token.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\finsh_token.o: E:/xin/RTT_CODE/rt-thread-master/rt-thread-master/include/rtservice.h
+.\build\finsh_token.o: E:/xin/RTT_CODE/rt-thread-master/rt-thread-master/include/rtm.h
+.\build\finsh_token.o: E:/xin/RTT_CODE/rt-thread-master/rt-thread-master/include/rtthread.h
+.\build\finsh_token.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\build\finsh_token.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\finsh_token.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\build\finsh_token.o: E:/xin/RTT_CODE/rt-thread-master/rt-thread-master/components/finsh\finsh_token.h
+.\build\finsh_token.o: E:/xin/RTT_CODE/rt-thread-master/rt-thread-master/components/finsh\finsh_error.h

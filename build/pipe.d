@@ -1,0 +1,14 @@
+.\build\pipe.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\src\pipe.c
+.\build\pipe.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rthw.h
+.\build\pipe.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\pipe.o: .\rtconfig.h
+.\build\pipe.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
+.\build\pipe.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\pipe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\pipe.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
+.\build\pipe.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
+.\build\pipe.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\pipe.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\include\rtdevice.h
+.\build\pipe.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\include\drivers/serial.h
+.\build\pipe.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\include\drivers/pin.h
+.\build\pipe.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\include\rtdevice.h

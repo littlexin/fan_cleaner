@@ -1,0 +1,14 @@
+.\build\mem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\mem.c
+.\build\mem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rthw.h
+.\build\mem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\mem.o: .\rtconfig.h
+.\build\mem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
+.\build\mem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\mem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
+.\build\mem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
+.\build\mem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\mem.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh\finsh.h
+.\build\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\build\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

@@ -1,0 +1,10 @@
+.\build\scheduler.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\scheduler.c
+.\build\scheduler.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\scheduler.o: .\rtconfig.h
+.\build\scheduler.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
+.\build\scheduler.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\scheduler.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\scheduler.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
+.\build\scheduler.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
+.\build\scheduler.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\scheduler.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rthw.h

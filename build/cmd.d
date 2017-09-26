@@ -1,0 +1,13 @@
+.\build\cmd.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh\cmd.c
+.\build\cmd.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\cmd.o: .\rtconfig.h
+.\build\cmd.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
+.\build\cmd.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\cmd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\cmd.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
+.\build\cmd.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
+.\build\cmd.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\cmd.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh\finsh.h
+.\build\cmd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\build\cmd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\cmd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

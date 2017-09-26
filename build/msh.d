@@ -1,0 +1,15 @@
+.\build\msh.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh\msh.c
+.\build\msh.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh\msh.h
+.\build\msh.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\msh.o: .\rtconfig.h
+.\build\msh.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
+.\build\msh.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\msh.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
+.\build\msh.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
+.\build\msh.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\msh.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh\finsh.h
+.\build\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\build\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\build\msh.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh\shell.h

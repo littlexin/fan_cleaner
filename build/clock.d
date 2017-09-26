@@ -1,0 +1,10 @@
+.\build\clock.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\clock.c
+.\build\clock.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rthw.h
+.\build\clock.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\clock.o: .\rtconfig.h
+.\build\clock.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
+.\build\clock.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\clock.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\clock.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
+.\build\clock.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
+.\build\clock.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h

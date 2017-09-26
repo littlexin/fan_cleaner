@@ -1,0 +1,10 @@
+.\build\kservice.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\kservice.c
+.\build\kservice.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\kservice.o: .\rtconfig.h
+.\build\kservice.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
+.\build\kservice.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\kservice.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\kservice.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
+.\build\kservice.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
+.\build\kservice.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\kservice.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rthw.h

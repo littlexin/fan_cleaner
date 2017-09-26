@@ -1,0 +1,10 @@
+.\build\mempool.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\mempool.c
+.\build\mempool.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rthw.h
+.\build\mempool.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\mempool.o: .\rtconfig.h
+.\build\mempool.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
+.\build\mempool.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\mempool.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\mempool.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
+.\build\mempool.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
+.\build\mempool.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
