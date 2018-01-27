@@ -1,9 +1,9 @@
-.\build\backtrace.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\libcpu\arm\common\backtrace.c
-.\build\backtrace.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\backtrace.o: ..\..\rt-thread-code\rt-thread\libcpu\arm\common\backtrace.c
+.\build\backtrace.o: ..\..\rt-thread-code\rt-thread\include\rtthread.h
 .\build\backtrace.o: .\rtconfig.h
-.\build\backtrace.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
-.\build\backtrace.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\backtrace.o: ..\..\rt-thread-code\rt-thread\include\rtdebug.h
+.\build\backtrace.o: ..\..\rt-thread-code\rt-thread\include\rtdef.h
 .\build\backtrace.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-.\build\backtrace.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
-.\build\backtrace.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
-.\build\backtrace.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\backtrace.o: ..\..\rt-thread-code\rt-thread\include\rtservice.h
+.\build\backtrace.o: ..\..\rt-thread-code\rt-thread\include\rtm.h
+.\build\backtrace.o: ..\..\rt-thread-code\rt-thread\include\rtthread.h

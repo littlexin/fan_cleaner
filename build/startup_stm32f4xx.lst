@@ -842,18 +842,18 @@ ARM Macro Assembler    Page 13
               00000000 
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
-erwork --depend=.\build\startup_stm32f4xx.d -o.\build\startup_stm32f4xx.o -IE:\
+erwork --depend=.\build\startup_stm32f4xx.d -o.\build\startup_stm32f4xx.o -ID:\
 
 
 
 ARM Macro Assembler    Page 14 
 
 
-xin\Git_Code\air_cleaner\RTE -IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Dr
-ivers\CMSIS\Device\ST\STM32F4xx\Include -IC:\Keil_v5\ARM\CMSIS\Include --predef
-ine="__MICROLIB SETA 1" --predefine="__UVISION_VERSION SETA 521" --predefine="S
-TM32F407xx SETA 1" --list=.\build\startup_stm32f4xx.lst Libraries\CMSIS\ST\STM3
-2F4xx\Source\Templates\arm\startup_stm32f4xx.s
+Xin\Code\fan_cleaner\RTE -IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Driver
+s\CMSIS\Device\ST\STM32F4xx\Include -IC:\Keil_v5\ARM\CMSIS\Include --predefine=
+"__MICROLIB SETA 1" --predefine="__UVISION_VERSION SETA 521" --predefine="STM32
+F407xx SETA 1" --list=.\build\startup_stm32f4xx.lst Libraries\CMSIS\ST\STM32F4x
+x\Source\Templates\arm\startup_stm32f4xx.s
 
 
 

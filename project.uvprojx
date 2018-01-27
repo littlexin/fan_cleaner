@@ -335,7 +335,7 @@
               <MiscControls></MiscControls>
               <Define>USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath>applications;.;drivers;Libraries\STM32F4xx_StdPeriph_Driver\inc;Libraries\CMSIS\ST\STM32F4xx\Include;Libraries\CMSIS\Include;..\..\RTT_CODE\rt-thread-master\rt-thread-master\include;..\..\RTT_CODE\rt-thread-master\rt-thread-master\libcpu\arm\cortex-m4;..\..\RTT_CODE\rt-thread-master\rt-thread-master\libcpu\arm\common;..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\include;..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\include;..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\include;..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh</IncludePath>
+              <IncludePath>applications;.;drivers;Libraries\STM32F4xx_StdPeriph_Driver\inc;Libraries\CMSIS\ST\STM32F4xx\Include;Libraries\CMSIS\Include;..\..\rt-thread-code\rt-thread\include;..\..\rt-thread-code\rt-thread\libcpu\arm\cortex-m4;..\..\rt-thread-code\rt-thread\libcpu\arm\common;..\..\rt-thread-code\rt-thread\components\drivers\include;..\..\rt-thread-code\rt-thread\components\drivers\include;..\..\rt-thread-code\rt-thread\components\drivers\include;..\..\rt-thread-code\rt-thread\components\finsh</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -423,6 +423,11 @@
               <FileName>gpio.c</FileName>
               <FileType>1</FileType>
               <FilePath>drivers\gpio.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd_R61529.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\drivers\lcd_R61529.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -602,62 +607,62 @@
             <File>
               <FileName>clock.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\clock.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\src\clock.c</FilePath>
             </File>
             <File>
               <FileName>device.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\device.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\src\device.c</FilePath>
             </File>
             <File>
               <FileName>idle.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\idle.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\src\idle.c</FilePath>
             </File>
             <File>
               <FileName>ipc.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\ipc.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\src\ipc.c</FilePath>
             </File>
             <File>
               <FileName>irq.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\irq.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\src\irq.c</FilePath>
             </File>
             <File>
               <FileName>kservice.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\kservice.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\src\kservice.c</FilePath>
             </File>
             <File>
               <FileName>mem.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\mem.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\src\mem.c</FilePath>
             </File>
             <File>
               <FileName>mempool.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\mempool.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\src\mempool.c</FilePath>
             </File>
             <File>
               <FileName>object.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\object.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\src\object.c</FilePath>
             </File>
             <File>
               <FileName>scheduler.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\scheduler.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\src\scheduler.c</FilePath>
             </File>
             <File>
               <FileName>thread.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\thread.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\src\thread.c</FilePath>
             </File>
             <File>
               <FileName>timer.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\timer.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\src\timer.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -667,27 +672,27 @@
             <File>
               <FileName>cpuport.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\libcpu\arm\cortex-m4\cpuport.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\libcpu\arm\cortex-m4\cpuport.c</FilePath>
             </File>
             <File>
               <FileName>context_rvds.S</FileName>
               <FileType>2</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\libcpu\arm\cortex-m4\context_rvds.S</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\libcpu\arm\cortex-m4\context_rvds.S</FilePath>
             </File>
             <File>
               <FileName>backtrace.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\libcpu\arm\common\backtrace.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\libcpu\arm\common\backtrace.c</FilePath>
             </File>
             <File>
               <FileName>div0.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\libcpu\arm\common\div0.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\libcpu\arm\common\div0.c</FilePath>
             </File>
             <File>
               <FileName>showmem.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\libcpu\arm\common\showmem.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\libcpu\arm\common\showmem.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -697,42 +702,42 @@
             <File>
               <FileName>pin.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\misc\pin.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\drivers\misc\pin.c</FilePath>
             </File>
             <File>
               <FileName>serial.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\serial\serial.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\drivers\serial\serial.c</FilePath>
             </File>
             <File>
               <FileName>completion.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\src\completion.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\drivers\src\completion.c</FilePath>
             </File>
             <File>
               <FileName>dataqueue.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\src\dataqueue.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\drivers\src\dataqueue.c</FilePath>
             </File>
             <File>
               <FileName>pipe.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\src\pipe.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\drivers\src\pipe.c</FilePath>
             </File>
             <File>
               <FileName>portal.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\src\portal.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\drivers\src\portal.c</FilePath>
             </File>
             <File>
               <FileName>ringbuffer.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\src\ringbuffer.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\drivers\src\ringbuffer.c</FilePath>
             </File>
             <File>
               <FileName>workqueue.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\drivers\src\workqueue.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\drivers\src\workqueue.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -742,32 +747,32 @@
             <File>
               <FileName>shell.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh\shell.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\finsh\shell.c</FilePath>
             </File>
             <File>
               <FileName>symbol.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh\symbol.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\finsh\symbol.c</FilePath>
             </File>
             <File>
               <FileName>cmd.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh\cmd.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\finsh\cmd.c</FilePath>
             </File>
             <File>
               <FileName>msh.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh\msh.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\finsh\msh.c</FilePath>
             </File>
             <File>
               <FileName>msh_cmd.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh\msh_cmd.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\finsh\msh_cmd.c</FilePath>
             </File>
             <File>
               <FileName>msh_file.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\RTT_CODE\rt-thread-master\rt-thread-master\components\finsh\msh_file.c</FilePath>
+              <FilePath>..\..\rt-thread-code\rt-thread\components\finsh\msh_file.c</FilePath>
             </File>
           </Files>
         </Group>

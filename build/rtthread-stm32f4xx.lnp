@@ -7,6 +7,7 @@
 ".\build\platform.o"
 ".\build\fan_control.o"
 ".\build\gpio.o"
+".\build\lcd_r61529.o"
 ".\build\system_stm32f4xx.o"
 ".\build\misc.o"
 ".\build\stm32f4xx_adc.o"

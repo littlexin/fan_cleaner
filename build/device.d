@@ -1,9 +1,9 @@
-.\build\device.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\src\device.c
-.\build\device.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\device.o: ..\..\rt-thread-code\rt-thread\src\device.c
+.\build\device.o: ..\..\rt-thread-code\rt-thread\include\rtthread.h
 .\build\device.o: .\rtconfig.h
-.\build\device.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
-.\build\device.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\device.o: ..\..\rt-thread-code\rt-thread\include\rtdebug.h
+.\build\device.o: ..\..\rt-thread-code\rt-thread\include\rtdef.h
 .\build\device.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-.\build\device.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
-.\build\device.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
-.\build\device.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\device.o: ..\..\rt-thread-code\rt-thread\include\rtservice.h
+.\build\device.o: ..\..\rt-thread-code\rt-thread\include\rtm.h
+.\build\device.o: ..\..\rt-thread-code\rt-thread\include\rtthread.h

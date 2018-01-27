@@ -35,11 +35,11 @@
 .\build\application.o: Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h
 .\build\application.o: Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_wwdg.h
 .\build\application.o: Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h
-.\build\application.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\application.o: ..\..\rt-thread-code\rt-thread\include\rtthread.h
 .\build\application.o: .\rtconfig.h
-.\build\application.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdebug.h
-.\build\application.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtdef.h
+.\build\application.o: ..\..\rt-thread-code\rt-thread\include\rtdebug.h
+.\build\application.o: ..\..\rt-thread-code\rt-thread\include\rtdef.h
 .\build\application.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-.\build\application.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtservice.h
-.\build\application.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtm.h
-.\build\application.o: ..\..\RTT_CODE\rt-thread-master\rt-thread-master\include\rtthread.h
+.\build\application.o: ..\..\rt-thread-code\rt-thread\include\rtservice.h
+.\build\application.o: ..\..\rt-thread-code\rt-thread\include\rtm.h
+.\build\application.o: ..\..\rt-thread-code\rt-thread\include\rtthread.h
