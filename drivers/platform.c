@@ -129,4 +129,5 @@ void rt_platform_init(void * para)
 	LCD_HW_init();
 	
 	id = r61529_read_id();
+	rt_kprintf("id:0x%04x", id);
 }
